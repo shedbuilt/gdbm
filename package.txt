@@ -1,5 +1,7 @@
 NAME=gdbm
-VERSION=1.13
+VERSION=1.14.1
 REVISION=1
-SRC=http://ftp.gnu.org/gnu/gdbm/gdbm-1.13.tar.gz
-SRCMD5=8929dcda2a8de3fd2367bdbf66769376
+SRC=http://ftp.gnu.org/gnu/gdbm/gdbm-1.14.1.tar.gz
+SRCMD5=c2ddcb3897efa0f57484af2bd4f4f848
+OPTIONS=bootstrap|release
+DEFAULTS=release
