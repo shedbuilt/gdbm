@@ -1,7 +1,7 @@
 NAME=gdbm
 VERSION=1.17
 REVISION=2
-SRC=http://ftp.gnu.org/gnu/gdbm/gdbm-1.17.tar.gz
+SRC=http://mirrors.kernel.org/gnu/gdbm/gdbm-1.17.tar.gz
 SRCMD5=f20ce117abc6f302ecf62c34d41c1ecf
 OPTIONS=bootstrap|release
 DEFAULTS=release
