@@ -1,7 +1,7 @@
 NAME=gdbm
-VERSION=1.17
-REVISION=2
-SRC=http://mirrors.kernel.org/gnu/gdbm/gdbm-1.17.tar.gz
-SRCMD5=f20ce117abc6f302ecf62c34d41c1ecf
+VERSION=1.18
+REVISION=3
+SRC=http://mirrors.kernel.org/gnu/gdbm/gdbm-1.18.tar.gz
+SRCMD5=e316f8e4a3e7e4f23955be65d54fec48
 OPTIONS=bootstrap|release
 DEFAULTS=release
